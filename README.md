@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development<br>
+👋 Hi, I’m @keshav_016.<br>
+👀 I’m interested in web and app devlopment.<br>
+🌱 I’m currently learning web devlopment.<br>
+💞️ I’m looking to collaborate on any idea that puts me on my toes.<br>
+📫 Connect via mail: kkeshavkumarhigh@gmail.com<br>
 
 
 ## 🌐 Socials:
